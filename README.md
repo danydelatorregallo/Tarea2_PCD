@@ -1,2 +1,3 @@
 # Tarea2_PCD
-Tarea 2 Traajando con Github
+Homework 2 Working with Github
+In this task what was done was a summary on the importance of the deployment in production of ML projects, added to this the idea was to work with git, the purpose of this task was to make a repository where the notebook where the summary comes is saved and two commits are made which is basically a proof that work was done and where you can see the progress, following this an additional branch was made to the default one because if something goes wrong in a larger project you do not have to do everything twice, for example task 2, official task 2, final task 2. What is sought is that if a branch does not work the same, you have others.
